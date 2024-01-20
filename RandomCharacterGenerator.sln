@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomCharacterGeneratorConsole", "RandomCharacterGeneratorConsole\RandomCharacterGeneratorConsole.csproj", "{894FCE88-2906-4539-B083-4E0BCBEBF192}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomCharacterGeneratorLibrary", "RandomCharacterGeneratorLibrary\RandomCharacterGeneratorLibrary.csproj", "{DE7972BD-4DAF-4C82-AD1C-CCC158115B75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{894FCE88-2906-4539-B083-4E0BCBEBF192}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{894FCE88-2906-4539-B083-4E0BCBEBF192}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{894FCE88-2906-4539-B083-4E0BCBEBF192}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{894FCE88-2906-4539-B083-4E0BCBEBF192}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE7972BD-4DAF-4C82-AD1C-CCC158115B75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE7972BD-4DAF-4C82-AD1C-CCC158115B75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE7972BD-4DAF-4C82-AD1C-CCC158115B75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE7972BD-4DAF-4C82-AD1C-CCC158115B75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FA8EAAC-4AB6-4A8A-91E0-FBE9962E59D0}
+	EndGlobalSection
+EndGlobal
